@@ -1,0 +1,35 @@
+/* Alle hoofdingen krijgen het 'Arial' font en verschillende tekstgroottes */
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 1.8em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.4em;
+}
+
+/* Alle paragrafen krijgen het 'Times New Roman' font en een tekstgrootte van 1.2em */
+p {
+    font-family: 'Times New Roman', serif;
+    font-size: 1.2em;
+}
+
+/* Specifieke tekstkleuren voor de paragrafen */
+.rood {
+    color: red;
+}
+
+.groen {
+    color: green;
+}
+
+.blauw {
+    color: blue;
+}
